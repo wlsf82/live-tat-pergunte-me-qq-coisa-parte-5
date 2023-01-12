@@ -79,7 +79,7 @@ Já fiz duas _Lives_ sobre o Dashboard do Cypress, agora chamado de Cypress Clou
 
 ### Thiago Fragoso
 
-1. Fala, Walmyr! Gostaria de indicações de sites para treinar autaomação com Cypress. Obrigado! ✅
+1. Fala, Walmyr! Gostaria de indicações de sites para treinar automação com Cypress. Obrigado! ✅
 
 <details><summary>Resposta</summary>
 </br>
