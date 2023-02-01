@@ -122,7 +122,7 @@ Além disso, encontrei os seguintes _plugins_ na [página oficial de _Plugins_ d
 - [cypress-indexeddb](https://github.com/thisdot/open-source/tree/main/libs/cypress-indexeddb)
 - [cypress-mongodb](https://github.com/Zaista/cypress-mongodb)
 
-Além destes, encontrei este outros para integração com bancos de dados Oracle e MySQL, procurando direto no [site oficial do npm](https://www.npmjs.com/):
+Além destes, encontrei estes outros para integração com bancos de dados Oracle e MySQL, procurando direto no [site oficial do npm](https://www.npmjs.com/):
 
 - [cypress-oracle-db](https://www.npmjs.com/package/cypress-oracle-db)
 - [@cypress-tools/mysql](https://www.npmjs.com/package/@cypress-tools/mysql)
